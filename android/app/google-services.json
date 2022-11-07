@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1000086329733",
+    "project_id": "dating-app-twitch",
+    "storage_bucket": "dating-app-twitch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000086329733:android:cc7716225f173277ac8cec",
+        "android_client_info": {
+          "package_name": "com.example.dating_app_twitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000086329733-vcb5qormnpu8rcsnb47tbaen2laepvam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSA741iUMxVE9pNfInzpq6E8xCz3g8YgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000086329733-vcb5qormnpu8rcsnb47tbaen2laepvam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

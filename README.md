@@ -1,6 +1,6 @@
 # dating_app_twitch
 
-A new Flutter project.
+Dating App with firebase and agora io fully responsive
 
 ## Getting Started
 
